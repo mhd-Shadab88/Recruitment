@@ -66,6 +66,15 @@ npm test           # run the test suite once
 npm run test:watch # run tests in watch mode
 ```
 
+### Deployment (GitHub Pages)
+
+`.github/workflows/deploy-pages.yml` builds and tests the app on every push to `main` and deploys `dist/` to GitHub Pages. Two things this repo's own settings must have for that to work (one-time, done by a repo owner in the GitHub UI, not by this workflow file):
+
+1. **Settings → Pages → Build and deployment → Source: "GitHub Actions"** (not "Deploy from a branch").
+2. The push must land on `main` — the workflow doesn't run on other branches or on pull requests.
+
+The app uses `HashRouter` and a relative Vite `base` (see `vite.config.ts` / `src/main.tsx`) so it works correctly when served from a project-page subpath (`https://<user>.github.io/<repo>/`) without a server-side rewrite rule — URLs look like `.../#/profile` rather than `.../profile`.
+
 ## 6. How the research engine works
 
 1. **Search** — a `SearchProvider` (interface in `src/lib/research/types.ts`) returns raw results for a query. Only `DemoSearchProvider` is implemented; it returns a small, fixed set of synthetic example results, each tagged `isDemo: true`.
