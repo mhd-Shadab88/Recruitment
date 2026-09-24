@@ -1,0 +1,14 @@
+[
+  {
+    "id": "source-self-reported",
+    "name": "Seed profile (provided by Shadab)",
+    "url": "",
+    "type": "self_reported",
+    "confidence": "high",
+    "confidenceRationale": "Provided directly by the profile owner as the starting identity record. Treated as high confidence because it is first-party, not because it has been cross-verified against a public source.",
+    "matchSignals": ["Provided directly by profile owner"],
+    "description": "The initial professional and personal profile information supplied by Shadab to seed this dashboard: role, focus areas, interests, and named projects.",
+    "lastChecked": "2026-09-24",
+    "status": "accepted"
+  }
+]

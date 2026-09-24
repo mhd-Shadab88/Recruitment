@@ -1,0 +1,46 @@
+[
+  {
+    "id": "proj-ta-transformation",
+    "name": "TA Transformation",
+    "tagline": "Simplifying and modernizing talent acquisition operations",
+    "focus": [
+      "Process Simplification",
+      "Governance",
+      "Automation",
+      "Candidate Experience",
+      "Analytics"
+    ],
+    "description": "An ongoing operational transformation program covering process simplification, governance frameworks, automation of repetitive TA tasks, and improving candidate experience through better analytics.",
+    "status": "ongoing",
+    "claimIds": ["claim-proj-ta-transformation"]
+  },
+  {
+    "id": "proj-ai-in-ta",
+    "name": "AI in Talent Acquisition",
+    "tagline": "Applying AI agents and automation to TA operations",
+    "focus": [
+      "AI Agents",
+      "Workflow Automation",
+      "Talent Screening",
+      "AI-enabled TA Operations"
+    ],
+    "description": "Exploring and applying AI agents and workflow automation to talent screening and broader TA operations, aiming to reduce manual effort while keeping human judgement central to hiring decisions.",
+    "status": "active",
+    "claimIds": ["claim-proj-ai-in-ta"]
+  },
+  {
+    "id": "proj-deen-discipline",
+    "name": "Deen & Discipline",
+    "tagline": "Traditional Wisdom | Modern Systems",
+    "focus": [
+      "Quran & Sunnah",
+      "Discipline",
+      "Emotional Strength",
+      "Productivity",
+      "Wealth Building"
+    ],
+    "description": "A creative project helping Muslims build discipline, emotional strength, productivity and wealth by combining traditional wisdom from the Quran and Sunnah with modern personal-systems thinking.",
+    "status": "concept",
+    "claimIds": ["claim-proj-deen-discipline"]
+  }
+]

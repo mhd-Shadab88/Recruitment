@@ -1,0 +1,75 @@
+{
+  "name": "Shadab",
+  "headline": "Talent Acquisition Operations Lead",
+  "summary": "Talent Acquisition Operations leader focused on TA transformation across India & APAC — simplifying processes, strengthening governance, and applying automation and AI to improve candidate experience and TA analytics.",
+  "location": "India & APAC",
+  "focusAreas": [
+    "Talent Acquisition Operations",
+    "India & APAC",
+    "TA Transformation",
+    "Process Simplification",
+    "Governance",
+    "Automation",
+    "AI in Talent Acquisition",
+    "Candidate Experience",
+    "TA Analytics",
+    "Change Management",
+    "Global TA Operations"
+  ],
+  "professionalInterests": [
+    "AI and Automation",
+    "Talent Acquisition",
+    "HR Technology",
+    "Process Improvement",
+    "Six Sigma",
+    "Data and Analytics",
+    "Leadership",
+    "Strategic Thinking",
+    "Business Transformation"
+  ],
+  "personalInterests": [
+    "Photography",
+    "Travel",
+    "Family Activities",
+    "Islamic Learning",
+    "Productivity",
+    "Personal Development",
+    "Investing and Financial Learning"
+  ],
+  "career": [
+    {
+      "id": "career-ta-ops-lead",
+      "title": "Talent Acquisition Operations Lead",
+      "period": "Current",
+      "summary": "Leads TA operations across India & APAC, driving transformation through process simplification, governance and automation, and championing AI adoption in recruiting workflows.",
+      "claimIds": ["claim-role-title", "claim-role-scope"]
+    }
+  ],
+  "expertise": [
+    {
+      "id": "exp-ta-transformation",
+      "label": "TA Transformation",
+      "description": "Redesigning talent acquisition operating models to simplify process, strengthen governance and improve candidate experience.",
+      "claimIds": ["claim-focus-areas"]
+    },
+    {
+      "id": "exp-automation-ai",
+      "label": "Automation & AI in TA",
+      "description": "Applying automation and AI to recruiting workflows to reduce manual effort and improve consistency.",
+      "claimIds": ["claim-focus-areas"]
+    },
+    {
+      "id": "exp-analytics-governance",
+      "label": "Analytics & Governance",
+      "description": "Building TA analytics and governance frameworks to support data-informed decisions across global TA operations.",
+      "claimIds": ["claim-focus-areas"]
+    },
+    {
+      "id": "exp-change-management",
+      "label": "Change Management",
+      "description": "Leading change management for TA transformation initiatives across India & APAC and global operations.",
+      "claimIds": ["claim-focus-areas"]
+    }
+  ],
+  "lastResearchDate": "2026-09-24"
+}

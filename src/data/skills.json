@@ -1,0 +1,47 @@
+[
+  {
+    "id": "skill-cat-ta",
+    "name": "Talent Acquisition",
+    "description": "Core TA operations and candidate-facing skills.",
+    "skills": [
+      { "id": "skill-ta-ops", "name": "TA Operations", "claimIds": ["claim-focus-areas"] },
+      { "id": "skill-recruiting-ops", "name": "Recruiting Operations", "claimIds": ["claim-focus-areas"] },
+      { "id": "skill-candidate-experience", "name": "Candidate Experience", "claimIds": ["claim-focus-areas"] },
+      { "id": "skill-hiring-experience", "name": "Hiring Experience", "claimIds": ["claim-focus-areas"] }
+    ]
+  },
+  {
+    "id": "skill-cat-transformation",
+    "name": "Transformation",
+    "description": "Skills applied to redesigning and governing TA operating models.",
+    "skills": [
+      { "id": "skill-process-simplification", "name": "Process Simplification", "claimIds": ["claim-focus-areas"] },
+      { "id": "skill-governance", "name": "Governance", "claimIds": ["claim-focus-areas"] },
+      { "id": "skill-change-management", "name": "Change Management", "claimIds": ["claim-focus-areas", "claim-interests"] },
+      { "id": "skill-operating-models", "name": "Operating Models", "claimIds": ["claim-focus-areas"] }
+    ]
+  },
+  {
+    "id": "skill-cat-technology",
+    "name": "Technology",
+    "description": "Applied technology and tooling interests within TA and HR.",
+    "skills": [
+      { "id": "skill-ai", "name": "AI", "claimIds": ["claim-focus-areas", "claim-interests"] },
+      { "id": "skill-automation", "name": "Automation", "claimIds": ["claim-focus-areas", "claim-interests"] },
+      { "id": "skill-power-bi", "name": "Power BI", "claimIds": ["claim-interests"] },
+      { "id": "skill-hr-technology", "name": "HR Technology", "claimIds": ["claim-interests"] },
+      { "id": "skill-workflow-design", "name": "Workflow Design", "claimIds": ["claim-focus-areas"] }
+    ]
+  },
+  {
+    "id": "skill-cat-leadership",
+    "name": "Leadership",
+    "description": "Leadership and stakeholder-facing capabilities.",
+    "skills": [
+      { "id": "skill-strategic-thinking", "name": "Strategic Thinking", "claimIds": ["claim-interests"] },
+      { "id": "skill-stakeholder-management", "name": "Stakeholder Management", "claimIds": ["claim-focus-areas"] },
+      { "id": "skill-executive-communication", "name": "Executive Communication", "claimIds": ["claim-interests"] },
+      { "id": "skill-cross-functional-leadership", "name": "Cross-functional Leadership", "claimIds": ["claim-interests"] }
+    ]
+  }
+]
