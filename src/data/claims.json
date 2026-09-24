@@ -1,0 +1,65 @@
+[
+  {
+    "id": "claim-role-title",
+    "claim": "Professional role: Talent Acquisition Operations Lead",
+    "source": "Self-reported (project owner)",
+    "url": null,
+    "confidence": "high",
+    "last_verified": "2026-09-24",
+    "evidence": "Provided directly by the profile owner as the seed identity for this dashboard."
+  },
+  {
+    "id": "claim-role-scope",
+    "claim": "Scope: Talent Acquisition Operations across India & APAC",
+    "source": "Self-reported (project owner)",
+    "url": null,
+    "confidence": "high",
+    "last_verified": "2026-09-24",
+    "evidence": "Provided directly by the profile owner as the seed identity for this dashboard."
+  },
+  {
+    "id": "claim-focus-areas",
+    "claim": "Professional focus areas: TA transformation, process simplification, governance, automation, AI in TA, candidate experience, TA analytics, change management, global TA operations",
+    "source": "Self-reported (project owner)",
+    "url": null,
+    "confidence": "high",
+    "last_verified": "2026-09-24",
+    "evidence": "Provided directly by the profile owner as the seed identity for this dashboard."
+  },
+  {
+    "id": "claim-interests",
+    "claim": "Professional interests: AI and automation, HR technology, process improvement, Six Sigma, data and analytics, leadership, strategic thinking, business transformation",
+    "source": "Self-reported (project owner)",
+    "url": null,
+    "confidence": "high",
+    "last_verified": "2026-09-24",
+    "evidence": "Provided directly by the profile owner as the seed identity for this dashboard."
+  },
+  {
+    "id": "claim-proj-ta-transformation",
+    "claim": "Project: TA Transformation — process simplification, governance, automation, candidate experience, analytics",
+    "source": "Self-reported (project owner)",
+    "url": null,
+    "confidence": "high",
+    "last_verified": "2026-09-24",
+    "evidence": "Provided directly by the profile owner as a project the seed identity is working on."
+  },
+  {
+    "id": "claim-proj-ai-in-ta",
+    "claim": "Project: AI in Talent Acquisition — AI agents, workflow automation, talent screening",
+    "source": "Self-reported (project owner)",
+    "url": null,
+    "confidence": "high",
+    "last_verified": "2026-09-24",
+    "evidence": "Provided directly by the profile owner as a project the seed identity is working on."
+  },
+  {
+    "id": "claim-proj-deen-discipline",
+    "claim": "Creative project: Deen & Discipline — Traditional Wisdom | Modern Systems",
+    "source": "Self-reported (project owner)",
+    "url": null,
+    "confidence": "high",
+    "last_verified": "2026-09-24",
+    "evidence": "Provided directly by the profile owner as a personal creative project."
+  }
+]
